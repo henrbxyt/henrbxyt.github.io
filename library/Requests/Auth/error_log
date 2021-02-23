@@ -1,0 +1,1 @@
+[12-Apr-2020 22:47:41 America/New_York] PHP Fatal error:  Interface 'Requests_Auth' not found in /home/maniicyf/public_html/library/Requests/Auth/Basic.php on line 18
